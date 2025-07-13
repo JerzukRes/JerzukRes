@@ -1,5 +1,5 @@
 <h1> Jerzuk here 👋</h1>
-<p>Currently working on <a href="https://chatter-stats.com/">Chatter stats</a></p>
+<p>Currently working on <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1/">Very secret project</a></p>
 <h2 align="center"> 👷‍♂️ Languages ⛏ </h2>
 <p align="center">
   <a href="https://skillicons.dev">
